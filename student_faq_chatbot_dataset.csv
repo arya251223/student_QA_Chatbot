@@ -1,0 +1,142 @@
+question,intent,answer
+What are the college timings?,campus_info,"College operates from 9:00 AM to 5:00 PM, Monday to Saturday."
+Is attendance mandatory?,campus_info,"Yes, 75% attendance is required to be eligible for exams."
+Where is the admin office located?,campus_info,The admin office is located on the ground floor of the main building.
+Is there a dress code?,campus_info,Formal attire is expected Monday to Friday; casuals allowed on Saturday.
+How do I get a bonafide certificate?,campus_info,Apply at the admin office or through the student portal.
+When is the exam schedule released?,exam_info,Usually two weeks before exams on the college website.
+Where can I check my internal marks?,exam_info,Internal marks are published on the student portal.
+How can I apply for revaluation?,exam_info,Submit a revaluation form within 7 days of result declaration.
+What is the grading system?,exam_info,We follow the 10-point CGPA system.
+How many backlogs are allowed?,exam_info,You can carry a maximum of 4 backlogs.
+Where is the library located?,library_info,"Second floor, academic block A."
+What are the library timings?,library_info,9:00 AM to 6:00 PM on working days.
+Can I borrow books overnight?,library_info,"Yes, one-night borrowing is allowed for reference books."
+How many books can I borrow at once?,library_info,Up to 3 books for 15 days.
+Is there a fine for late return?,library_info,"Yes, ₹5 per day per book."
+How do I apply for hostel?,hostel_info,Apply through the student portal or visit the hostel office.
+Are there separate hostels for boys and girls?,hostel_info,"Yes, separate hostels with wardens."
+Is Wi-Fi available in the hostel?,hostel_info,"Yes, high-speed Wi-Fi is available for all residents."
+Can I stay in hostel during holidays?,hostel_info,Permission is required from the warden.
+What are hostel rules?,hostel_info,Hostel rules are provided in the handbook and posted on notice boards.
+How do I reset my college email password?,tech_support,Visit the IT helpdesk or request via student portal.
+How do I access Wi-Fi on campus?,tech_support,Login credentials are provided by IT after registration.
+Where is the IT helpdesk?,tech_support,"Ground floor, next to admin office."
+Can I get software licenses?,tech_support,"Yes, request licensed software via student portal."
+What if my student portal doesn't work?,tech_support,Report it to the IT helpdesk or mail support@college.edu.
+Are there any student clubs?,student_life,"Yes, cultural, coding, sports, and entrepreneurship clubs are available."
+How do I join a student club?,student_life,Fill out the club registration form online or meet the club coordinator.
+When is the college fest?,student_life,Usually in February each year.
+Is there a drama or music club?,student_life,"Yes, both are part of the cultural club."
+Can I participate in inter-college events?,student_life,"Yes, with permission from the faculty coordinator."
+How do I pay my fees?,finance_info,Use the college payment portal or visit the accounts department.
+Are there scholarships available?,finance_info,"Yes, based on merit and financial need."
+What is the last date for fee payment?,finance_info,Check the academic calendar or accounts notice board.
+Can I pay my fees in installments?,finance_info,Installments are allowed under special cases with approval.
+Where can I get a fee receipt?,finance_info,Fee receipts are available from the accounts office or online portal.
+Sample question 36,general,This is a sample answer 36.
+Sample question 37,general,This is a sample answer 37.
+Sample question 38,general,This is a sample answer 38.
+Sample question 39,general,This is a sample answer 39.
+Sample question 40,general,This is a sample answer 40.
+Sample question 41,general,This is a sample answer 41.
+Sample question 42,general,This is a sample answer 42.
+Sample question 43,general,This is a sample answer 43.
+Sample question 44,general,This is a sample answer 44.
+Sample question 45,general,This is a sample answer 45.
+Sample question 46,general,This is a sample answer 46.
+Sample question 47,general,This is a sample answer 47.
+Sample question 48,general,This is a sample answer 48.
+Sample question 49,general,This is a sample answer 49.
+Sample question 50,general,This is a sample answer 50.
+Sample question 51,general,This is a sample answer 51.
+Sample question 52,general,This is a sample answer 52.
+Sample question 53,general,This is a sample answer 53.
+Sample question 54,general,This is a sample answer 54.
+Sample question 55,general,This is a sample answer 55.
+Sample question 56,general,This is a sample answer 56.
+Sample question 57,general,This is a sample answer 57.
+Sample question 58,general,This is a sample answer 58.
+Sample question 59,general,This is a sample answer 59.
+Sample question 60,general,This is a sample answer 60.
+Sample question 61,general,This is a sample answer 61.
+Sample question 62,general,This is a sample answer 62.
+Sample question 63,general,This is a sample answer 63.
+Sample question 64,general,This is a sample answer 64.
+Sample question 65,general,This is a sample answer 65.
+Sample question 66,general,This is a sample answer 66.
+Sample question 67,general,This is a sample answer 67.
+Sample question 68,general,This is a sample answer 68.
+Sample question 69,general,This is a sample answer 69.
+Sample question 70,general,This is a sample answer 70.
+Sample question 71,general,This is a sample answer 71.
+Sample question 72,general,This is a sample answer 72.
+Sample question 73,general,This is a sample answer 73.
+Sample question 74,general,This is a sample answer 74.
+Sample question 75,general,This is a sample answer 75.
+Sample question 76,general,This is a sample answer 76.
+Sample question 77,general,This is a sample answer 77.
+Sample question 78,general,This is a sample answer 78.
+Sample question 79,general,This is a sample answer 79.
+Sample question 80,general,This is a sample answer 80.
+Sample question 81,general,This is a sample answer 81.
+Sample question 82,general,This is a sample answer 82.
+Sample question 83,general,This is a sample answer 83.
+Sample question 84,general,This is a sample answer 84.
+Sample question 85,general,This is a sample answer 85.
+Sample question 86,general,This is a sample answer 86.
+Sample question 87,general,This is a sample answer 87.
+Sample question 88,general,This is a sample answer 88.
+Sample question 89,general,This is a sample answer 89.
+Sample question 90,general,This is a sample answer 90.
+Sample question 91,general,This is a sample answer 91.
+Sample question 92,general,This is a sample answer 92.
+Sample question 93,general,This is a sample answer 93.
+Sample question 94,general,This is a sample answer 94.
+Sample question 95,general,This is a sample answer 95.
+Sample question 96,general,This is a sample answer 96.
+Sample question 97,general,This is a sample answer 97.
+Sample question 98,general,This is a sample answer 98.
+Sample question 99,general,This is a sample answer 99.
+Sample question 100,general,This is a sample answer 100.
+What is the placement process?,general,"The placement process involves aptitude tests, group discussions, and interviews."
+How do I prepare for campus placements?,general,You can attend training sessions organized by the T&P cell and practice aptitude and coding.
+Is there a gym on campus?,general,"Yes, the gym is located near the sports complex and is open from 6 AM to 8 PM."
+Can I park my bike inside the campus?,general,"Yes, there is a designated two-wheeler parking area at the entrance."
+Where can I find lost items?,general,Lost and found items are kept in the admin office.
+How do I get a character certificate?,general,You can request a character certificate from the admin department.
+Is there a canteen menu available?,general,The canteen menu is posted weekly on the canteen notice board.
+Are internships mandatory?,general,"Yes, most programs require internships during the final year."
+How can I contact my class coordinator?,general,Coordinator contact details are available on the student portal.
+How do I book a classroom for club activities?,general,Submit a room booking form to the admin office.
+What are the medical facilities on campus?,general,The college has a first-aid room and a visiting doctor.
+Can alumni access campus resources?,general,"Yes, alumni can request access through the alumni relations cell."
+Is there a mentorship program?,general,"Yes, each student is assigned a mentor from the faculty."
+How do I report harassment or issues?,general,Contact the anti-ragging or grievance committee immediately.
+Is there a transport facility?,general,"Yes, buses operate from major routes; contact transport office."
+Where can I print or photocopy documents?,general,A printing facility is available in the library block.
+How do I change my elective course?,general,Meet your academic advisor within the first two weeks.
+Can I attend workshops outside college?,general,"Yes, but you must take prior approval from your HOD."
+How do I apply for a student ID replacement?,general,Submit an ID replacement request to the admin office.
+Are there campus jobs or part-time opportunities?,general,"Yes, contact the placement cell for openings."
+How do I submit feedback for a teacher?,general,Use the anonymous feedback form available on the portal.
+Can I get a soft copy of lecture notes?,general,"Yes, they are uploaded by faculty on the LMS."
+Is there a career counseling service?,general,"Yes, you can book an appointment through the T&P cell."
+What do I do if my name is misspelled on the ID?,general,Report to admin with valid proof for correction.
+How to get transcripts for applying abroad?,general,Transcripts can be requested via the examination office.
+How do I know my bus route?,general,Bus route details are shared during orientation and updated on the website.
+what is  the process for changing branches?,general,Branch changes are allowed after the first year with merit.
+Where can I complain about hostel food?,general,Hostel committees accept food feedback once a month.
+What is the college's holiday calendar?,general,The holiday calendar is available on the college website.
+Is ragging strictly prohibited?,general,"Yes, ragging is banned and punishable under anti-ragging laws."
+"Sorry, can you rephrase that?",general,I'm not sure I understood. Could you try asking that differently?
+Tell me more about the college.,general,You can find detailed information on the official website.
+I need help but I don't know what to ask.,general,"No problem! Try asking about library, hostel, exams, or fees."
+What can you help me with?,general,"I can answer questions about campus life, academics, services, and more."
+Can I ask you anything?,general,Sure! I'm here to help with student-related queries.
+Who are you?,general,I'm a chatbot created to support students with common questions.
+What happens if I fail a subject?,general,You may have to appear for supplementary exams or repeat the course.
+Help!,general,I'm here for you! Try asking a specific question like 'how to apply for leave'.
+Can you speak other languages?,general,"Right now, I only understand English."
+You are not helpful!,general,I am still learning! Try asking your question in a different way.
+what is admission process,campus_info,just visit admission section in office 

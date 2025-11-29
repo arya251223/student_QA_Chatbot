@@ -1,0 +1,9 @@
+{
+  "total": 40,
+  "answered": 27,
+  "fallback": 13,
+  "per_intent": {
+    "campus_info": 24,
+    "library_info": 3
+  }
+}
