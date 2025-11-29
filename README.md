@@ -165,10 +165,10 @@ pip install -r requirements.txt
 
 ---
 
-## 📜 License
+## 📜MIT License
 Copyright (c) 2025 **Aryan Kamble, Rajaj.tech**  
 
 This software is provided **for internal, educational, and personal use only.**  
-Not permitted: redistribution, commercial use, or integration into paid services.  
+
 
 > THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
